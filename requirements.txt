@@ -1,0 +1,1 @@
+# Optional image OCR: pip install pytesseract pillow; Tesseract engine must be installed separately.
